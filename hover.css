@@ -1,0 +1,9 @@
+p{
+    background-color: powderblue;
+    font-size: larger;
+    color: chocolate;
+    display: none;
+}
+h1:hover +p{
+    display: block;
+}

@@ -1,0 +1,12 @@
+#divContainer p, #live h2{
+    background-color: blueviolet;
+}
+#divContainer>p, #live>p{
+    color: brown;
+}
+#sivContainer p~h2, #live p~h2{
+    text-align: center;
+}
+h2 + h3{
+    font-size: 40px;
+}

@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+}
+#divContainer{
+    color:blue;
+}
+.singers, .singers1{
+    color:rgb(32, 163, 120);
+}
+p.singer2{
+    color:rgb(173, 103, 18);
+}
+p.singers3{
+    background-color: black;
+}
+*{
+    text-align: center;
+    font-style: oblique;
+}
+h2,h3,h4{
+    color: red;
+    background-color: rgb(141, 122, 46);
+}
+div p{
+    color: greenyellow;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, #6f3684, #280033)
+}
+a {
+    top: 0px;
+    text-align: center;
+    display: block;
+    float: right;
+    padding: 20px 15px;
+    text-decoration: none;
+    color: black;
+    /* width: 100%; */
+
+}
+.logo{
+    
+    margin-top: left;
+    float: left;
+    background-color: white;
+    border: 20px;
+}
+
+nav{
+    float: right;
+    background-color: white;
+}
+img{
+    width: 250px;
+    height: 400px;
+    display: flex;
+    border-radius: 15px;
+    margin-left: 800px;
+}

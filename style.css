@@ -1,0 +1,35 @@
+body{
+    background-image: url(color.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.container{
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+.column{
+    background-image: url('water.jpg');
+    text-align: center;
+    margin: 50px;
+    border: 20px solid cornflowerblue;
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+}
+.blue{
+    background-color: aqua;
+    max-width: 200px;
+    width: 200px;
+}
+.green{
+    background-color: bisque;
+    max-width: 200px;
+    width: 200px;
+}
+.orange{
+    background-color: lightcoral;
+    max-width: 200px;
+    width: 200px;
+}
